@@ -1,0 +1,29 @@
+* {
+	margin: 0;
+	padding: 0;
+	border: 0;
+    outline: none;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+    box-sizing: border-box;
+	font-family: 'Poppins', sans-serif !important;
+}
+
+
+ol, ul {
+	list-style: none;
+}
+
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+a {
+	text-decoration: none;
+}
