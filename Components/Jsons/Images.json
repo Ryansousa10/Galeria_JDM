@@ -6,16 +6,16 @@
                 "src": "img/wallpapers/1.jpg",
                 "user": {
                     "src": "img/profile/1.jpg",
-                    "name": "Arash",
+                    "name": "Saulo",
                     "job": "Designer"
                 }
             },
             {
                 "id": "wallpaper 2",
-                "src": "img/wallpapers/2.jfif",
+                "src": "img/wallpapers/2.jpg",
                 "user": {
                     "src": "img/profile/2.png",
-                    "name": "Farbod",
+                    "name": "Raul",
                     "job": "Scientist"
                 }
             },
@@ -33,7 +33,7 @@
                 "src": "img/wallpapers/4.jpg",
                 "user": {
                     "src": "img/profile/4.jpg",
-                    "name": "James",
+                    "name": "João Vitor",
                     "job": "editor"
                 }
             },
@@ -42,7 +42,7 @@
                 "src": "img/wallpapers/5.jpg",
                 "user": {
                     "src": "img/profile/5.jpg",
-                    "name": "Mary",
+                    "name": "Maria",
                     "job": "Developer"
                 }
             },
@@ -66,7 +66,7 @@
             },
             {
                 "id": "wallpaper 8",
-                "src": "img/wallpapers/8.jfif",
+                "src": "img/wallpapers/8.jpg",
                 "user": {
                     "src": "img/profile/1.jpg",
                     "name": "Richard",
@@ -84,7 +84,7 @@
             },
             {
                 "id": "wallpaper 10",
-                "src": "img/wallpapers/10.jfif",
+                "src": "img/wallpapers/10.jpg",
                 "user": {
                     "src": "img/profile/4.jpg",
                     "name": "Charles",
@@ -93,7 +93,7 @@
             },
             {
                 "id": "wallpaper 11",
-                "src": "img/wallpapers/11.jfif",
+                "src": "img/wallpapers/11.jpg",
                 "user": {
                     "src": "img/profile/2.png",
                     "name": "Joshua",
@@ -141,7 +141,7 @@
                 "src": "img/wallpapers/16.jpg",
                 "user": {
                     "src": "img/profile/5.jpg",
-                    "name": "Justin",
+                    "name": "Ryan",
                     "job": "Designer"
                 }
             },
@@ -168,7 +168,7 @@
                 "src": "img/wallpapers/19.jpg",
                 "user": {
                     "src": "img/profile/5.jpg",
-                    "name": "Justin",
+                    "name": "Ryan",
                     "job": "Designer"
                 }
             },
@@ -186,7 +186,7 @@
                 "src": "img/wallpapers/21.jpg",
                 "user": {
                     "src": "img/profile/5.jpg",
-                    "name": "Justin",
+                    "name": "Reubber",
                     "job": "Designer"
                 }
             },
@@ -222,7 +222,7 @@
                 "src": "img/wallpapers/25.jpg",
                 "user": {
                     "src": "img/profile/5.jpg",
-                    "name": "Justin",
+                    "name": "Santiago",
                     "job": "Designer"
                 }
             },
@@ -270,12 +270,22 @@
                     "name": "Justin",
                     "job": "Designer"
                 }
+            },
+            {
+                "id": "wallpaper 31",
+                "src": "img/wallpapers/31.jpg",
+                "user": {
+                    "src": "img/profile/5.jpg",
+                    "name": "Justin",
+                    "job": "Designer"
+                }
             }
         ],
+        
         "Mazda": [
             {
                 "id": "wallpaper 1",
-                "src": "img/wallpapers/6.jpg",
+                "src": "img/wallpapers/5.jpg",
                 "user": {
                     "src": "img/profile/3.png",
                     "name": "Patricia",
@@ -284,10 +294,19 @@
             },
             {
                 "id": "wallpaper 2",
-                "src": "img/wallpapers/7.png",
+                "src": "img/wallpapers/25.jpg",
                 "user": {
                     "src": "img/profile/4.jpg",
                     "name": "Jennifer",
+                    "job": "Front-End"
+                }
+            },
+            {
+                "id": "wallpaper 3",
+                "src": "img/wallpapers/26.jpg",
+                "user": {
+                    "src": "img/profile/3.png",
+                    "name": "Patricia",
                     "job": "Front-End"
                 }
             }
@@ -295,7 +314,7 @@
         "Nissan": [
             {
                 "id": "wallpaper 1",
-                "src": "img/wallpapers/2.jfif",
+                "src": "img/wallpapers/1.jpg",
                 "user": {
                     "src": "img/profile/2.png",
                     "name": "Farbod",
@@ -306,23 +325,14 @@
                 "id": "wallpaper 2",
                 "src": "img/wallpapers/3.jpg",
                 "user": {
-                    "src": "img/profile/1.jpg",
-                    "name": "Anne",
-                    "job": "Graphic Designer"
-                }
-            },
-            {
-                "id": "wallpaper 3",
-                "src": "img/wallpapers/4.jpg",
-                "user": {
                     "src": "img/profile/4.jpg",
                     "name": "James",
                     "job": "editor"
                 }
             },
             {
-                "id": "wallpaper 4",
-                "src": "img/wallpapers/5.jpg",
+                "id": "wallpaper 3",
+                "src": "img/wallpapers/4.jpg",
                 "user": {
                     "src": "img/profile/5.jpg",
                     "name": "Mary",
@@ -330,26 +340,35 @@
                 }
             },
             {
-                "id": "wallpaper 5",
-                "src": "img/wallpapers/6.jpg",
+                "id": "wallpaper 4",
+                "src": "img/wallpapers/10.jpg",
                 "user": {
-                    "src": "img/profile/3.png",
-                    "name": "Patricia",
-                    "job": "Front-End"
+                    "src": "img/profile/1.jpg",
+                    "name": "Richard",
+                    "job": "Product Designer"
+                }
+            },
+            {
+                "id": "wallpaper 5",
+                "src": "img/wallpapers/11.jpg",
+                "user": {
+                    "src": "img/profile/2.png",
+                    "name": "Joseph",
+                    "job": "Designer"
                 }
             },
             {
                 "id": "wallpaper 6",
-                "src": "img/wallpapers/7.png",
+                "src": "img/wallpapers/12.jpg",
                 "user": {
-                    "src": "img/profile/4.jpg",
-                    "name": "Jennifer",
-                    "job": "Front-End"
+                    "src": "img/profile/1.jpg",
+                    "name": "Richard",
+                    "job": "Product Designer"
                 }
             },
             {
                 "id": "wallpaper 7",
-                "src": "img/wallpapers/8.jfif",
+                "src": "img/wallpapers/13.jpg",
                 "user": {
                     "src": "img/profile/1.jpg",
                     "name": "Richard",
@@ -358,18 +377,45 @@
             },
             {
                 "id": "wallpaper 8",
-                "src": "img/wallpapers/9.jpg",
+                "src": "img/wallpapers/14.jpg",
                 "user": {
-                    "src": "img/profile/2.png",
-                    "name": "Joseph",
-                    "job": "Designer"
+                    "src": "img/profile/1.jpg",
+                    "name": "Richard",
+                    "job": "Product Designer"
+                }
+            },
+            {
+                "id": "wallpaper 9",
+                "src": "img/wallpapers/16.jpg",
+                "user": {
+                    "src": "img/profile/1.jpg",
+                    "name": "Richard",
+                    "job": "Product Designer"
+                }
+            },
+            {
+                "id": "wallpaper 10",
+                "src": "img/wallpapers/17.jpg",
+                "user": {
+                    "src": "img/profile/1.jpg",
+                    "name": "Richard",
+                    "job": "Product Designer"
+                }
+            },
+            {
+                "id": "wallpaper 11",
+                "src": "img/wallpapers/27.jpg",
+                "user": {
+                    "src": "img/profile/1.jpg",
+                    "name": "Richard",
+                    "job": "Product Designer"
                 }
             }
         ],
         "Toyota": [
             {
-                "id": "wallpaper 1",
-                "src": "img/wallpapers/12.jpg",
+                "id": "wallpaper 6",
+                "src": "img/wallpapers/6.jpg",
                 "user": {
                     "src": "img/profile/5.jpg",
                     "name": "Jacob",
@@ -377,8 +423,8 @@
                 }
             },
             {
-                "id": "wallpaper 2",
-                "src": "img/wallpapers/14.jpg",
+                "id": "wallpaper 7",
+                "src": "img/wallpapers/7.jpg",
                 "user": {
                     "src": "img/profile/4.jpg",
                     "name": "Eric",
@@ -386,8 +432,17 @@
                 }
             },
             {
-                "id": "wallpaper 3",
-                "src": "img/wallpapers/15.jpg",
+                "id": "wallpaper 18",
+                "src": "img/wallpapers/18.jpg",
+                "user": {
+                    "src": "img/profile/5.jpg",
+                    "name": "Justin",
+                    "job": "Designer"
+                }
+            },
+            {
+                "id": "wallpaper 28",
+                "src": "img/wallpapers/28.jpg",
                 "user": {
                     "src": "img/profile/5.jpg",
                     "name": "Justin",
@@ -395,10 +450,10 @@
                 }
             }
         ],
-        "Mitsubishi": [
+        "Subaru": [
             {
                 "id": "wallpaper 1",
-                "src": "img/wallpapers/8.jfif",
+                "src": "img/wallpapers/9.jpg",
                 "user": {
                     "src": "img/profile/1.jpg",
                     "name": "Richard",
@@ -407,19 +462,10 @@
             },
             {
                 "id": "wallpaper 2",
-                "src": "img/wallpapers/9.jpg",
+                "src": "img/wallpapers/31.jpg",
                 "user": {
                     "src": "img/profile/2.png",
                     "name": "Joseph",
-                    "job": "Designer"
-                }
-            },
-            {
-                "id": "wallpaper 3",
-                "src": "img/wallpapers/10.jfif",
-                "user": {
-                    "src": "img/profile/4.jpg",
-                    "name": "Charles",
                     "job": "Designer"
                 }
             }
@@ -427,7 +473,7 @@
         "Honda": [
             {
                 "id": "wallpaper 1",
-                "src": "img/wallpapers/8.jfif",
+                "src": "img/wallpapers/19.jpg",
                 "user": {
                     "src": "img/profile/1.jpg",
                     "name": "Richard",
@@ -436,7 +482,7 @@
             },
             {
                 "id": "wallpaper 2",
-                "src": "img/wallpapers/9.jpg",
+                "src": "img/wallpapers/20.jpg",
                 "user": {
                     "src": "img/profile/2.png",
                     "name": "Joseph",
@@ -445,7 +491,34 @@
             },
             {
                 "id": "wallpaper 3",
-                "src": "img/wallpapers/10.jfif",
+                "src": "img/wallpapers/21.jpg",
+                "user": {
+                    "src": "img/profile/4.jpg",
+                    "name": "Charles",
+                    "job": "Designer"
+                }
+            },
+            {
+                "id": "wallpaper 4",
+                "src": "img/wallpapers/22.jpg",
+                "user": {
+                    "src": "img/profile/4.jpg",
+                    "name": "Charles",
+                    "job": "Designer"
+                }
+            },
+            {
+                "id": "wallpaper 5",
+                "src": "img/wallpapers/23.jpg",
+                "user": {
+                    "src": "img/profile/4.jpg",
+                    "name": "Charles",
+                    "job": "Designer"
+                }
+            },
+            {
+                "id": "wallpaper 6",
+                "src": "img/wallpapers/24.jpg",
                 "user": {
                     "src": "img/profile/4.jpg",
                     "name": "Charles",
@@ -465,7 +538,7 @@
             },
             {
                 "id": "wallpaper 2",
-                "src": "img/wallpapers/2.jfif",
+                "src": "img/wallpapers/2.jpg",
                 "user": {
                     "src": "img/profile/2.png",
                     "name": "Farbod",
@@ -519,7 +592,7 @@
             },
             {
                 "id": "wallpaper 8",
-                "src": "img/wallpapers/8.jfif",
+                "src": "img/wallpapers/8.jpg",
                 "user": {
                     "src": "img/profile/1.jpg",
                     "name": "Richard",
@@ -537,7 +610,7 @@
             },
             {
                 "id": "wallpaper 10",
-                "src": "img/wallpapers/10.jfif",
+                "src": "img/wallpapers/10.jpg",
                 "user": {
                     "src": "img/profile/4.jpg",
                     "name": "Charles",
@@ -546,7 +619,7 @@
             },
             {
                 "id": "wallpaper 11",
-                "src": "img/wallpapers/11.jfif",
+                "src": "img/wallpapers/11.jpg",
                 "user": {
                     "src": "img/profile/2.png",
                     "name": "Joshua",
