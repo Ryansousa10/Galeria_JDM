@@ -7,6 +7,7 @@ import styles from "./App.module.css"
 import Header from './Components/Header/Header';
 import ContainerCard from './Components/ContainerCard/ContainerCard';
 import Dropdown from './Components/Elements/Dropdown/Dropdown';
+import MansoryLayout from './Components/MasonryLayout/MasonryLayout';
 
 import images from "./Components/Jsons/Images.json";
 
@@ -31,7 +32,7 @@ const App = () => {
     },
     {
       id: 4,
-      title: "Mitsubishi",
+      title: "Subaru",
       active: false
     },
     {
@@ -68,7 +69,7 @@ const App = () => {
                 
                 <Dropdown title="Todos" items={ddItems} liftingDdTextUp={takeDdTitle} />
               </div>
-               
+              <MansoryLayout images={categoryImage} />
           </ContainerCard>
           
         </div>
