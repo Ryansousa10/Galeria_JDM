@@ -532,7 +532,7 @@
                 "src": "img/wallpapers/1.jpg",
                 "user": {
                     "src": "img/profile/1.jpg",
-                    "name": "Arash",
+                    "name": "Saulo",
                     "job": "Designer"
                 }
             },
@@ -541,7 +541,7 @@
                 "src": "img/wallpapers/2.jpg",
                 "user": {
                     "src": "img/profile/2.png",
-                    "name": "Farbod",
+                    "name": "Raul",
                     "job": "Scientist"
                 }
             },
@@ -559,7 +559,7 @@
                 "src": "img/wallpapers/4.jpg",
                 "user": {
                     "src": "img/profile/4.jpg",
-                    "name": "James",
+                    "name": "João Vitor",
                     "job": "editor"
                 }
             },
@@ -568,7 +568,7 @@
                 "src": "img/wallpapers/5.jpg",
                 "user": {
                     "src": "img/profile/5.jpg",
-                    "name": "Mary",
+                    "name": "Maria",
                     "job": "Developer"
                 }
             },
@@ -658,6 +658,150 @@
                 "src": "img/wallpapers/15.jpg",
                 "user": {
                     "src": "img/profile/5.jpg",
+                    "name": "Justin",
+                    "job": "Designer"
+                }
+            },
+            {
+                "id": "wallpaper 16",
+                "src": "img/wallpapers/16.jpg",
+                "user": {
+                    "src": "img/profile/5.jpg",
+                    "name": "Ryan",
+                    "job": "Designer"
+                }
+            },
+            {
+                "id": "wallpaper 17",
+                "src": "img/wallpapers/17.jpg",
+                "user": {
+                    "src": "img/profile/5.jpg",
+                    "name": "Justin",
+                    "job": "Designer"
+                }
+            },
+            {
+                "id": "wallpaper 18",
+                "src": "img/wallpapers/18.jpg",
+                "user": {
+                    "src": "img/profile/5.jpg",
+                    "name": "Justin",
+                    "job": "Designer"
+                }
+            },
+            {
+                "id": "wallpaper 19",
+                "src": "img/wallpapers/19.jpg",
+                "user": {
+                    "src": "img/profile/4.jpg",
+                    "name": "Ryan",
+                    "job": "Designer"
+                }
+            },
+            {
+                "id": "wallpaper 20",
+                "src": "img/wallpapers/20.jpg",
+                "user": {
+                    "src": "img/profile/5.jpg",
+                    "name": "Justin",
+                    "job": "Designer"
+                }
+            },
+            {
+                "id": "wallpaper 21",
+                "src": "img/wallpapers/21.jpg",
+                "user": {
+                    "src": "img/profile/5.jpg",
+                    "name": "Reubber",
+                    "job": "Designer"
+                }
+            },
+            {
+                "id": "wallpaper 22",
+                "src": "img/wallpapers/22.jpg",
+                "user": {
+                    "src": "img/profile/5.jpg",
+                    "name": "Justin",
+                    "job": "Designer"
+                }
+            },
+            {
+                "id": "wallpaper 23",
+                "src": "img/wallpapers/23.jpg",
+                "user": {
+                    "src": "img/profile/5.jpg",
+                    "name": "Justin",
+                    "job": "Designer"
+                }
+            },
+            {
+                "id": "wallpaper 24",
+                "src": "img/wallpapers/24.jpg",
+                "user": {
+                    "src": "img/profile/5.jpg",
+                    "name": "Justin",
+                    "job": "Designer"
+                }
+            },
+            {
+                "id": "wallpaper 25",
+                "src": "img/wallpapers/25.jpg",
+                "user": {
+                    "src": "img/profile/5.jpg",
+                    "name": "Santiago",
+                    "job": "Designer"
+                }
+            },
+            {
+                "id": "wallpaper 26",
+                "src": "img/wallpapers/26.jpg",
+                "user": {
+                    "src": "img/profile/1.jpg",
+                    "name": "Saulo",
+                    "job": "Designer"
+                }
+            },
+            {
+                "id": "wallpaper 27",
+                "src": "img/wallpapers/27.jpg",
+                "user": {
+                    "src": "img/profile/5.jpg",
+                    "name": "Justin",
+                    "job": "Designer"
+                }
+            },
+            {
+                "id": "wallpaper 28",
+                "src": "img/wallpapers/28.jpg",
+                "user": {
+                    "src": "img/profile/3.jpg",
+                    "name": "Reubber",
+                    "job": "Designer"
+                }
+            },
+            {
+                "id": "wallpaper 29",
+                "src": "img/wallpapers/29.jpg",
+                "user": {
+                    "src": "img/profile/2.jpg",
+                    "name": "João Vitor",
+                    "job": "Designer"
+                }
+            },
+            {
+                "id": "wallpaper 30",
+                "src": "img/wallpapers/30.jpg",
+                "user": {
+                    "src": "img/profile/5.jpg",
+                    "name": "Raul",
+                    "job": "Designer"
+                }
+            },
+            {
+                "id": "wallpaper 31",
+                "src": "img/wallpapers/31.jpg",
+                "user": {
+                    "src": "img/profile/2.jpg",
                     "name": "Justin",
                     "job": "Designer"
                 }
